@@ -1,0 +1,5 @@
+11:43:24 | INFO | MainThread | logging.py:create_logger:71 | Logger created
+11:43:24 | DEBUG | MainThread | __init__.py:__init__:40 | Handler created
+11:43:33 | DEBUG | Thread-1 | jobs.py:_handle_coroutine:42 | Starting job with group run_all
+11:43:33 | INFO | Thread-1 | __init__.py:runner:101 | Running all tests in test/foo_test.exs
+11:43:33 | DEBUG | Thread-1 | jobs.py:_handle_coroutine:54 | Finished job with group run_all
